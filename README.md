@@ -1,3 +1,3 @@
 # test
 git reset
-git reset --mixed
+git reset --mixed HEAD^
